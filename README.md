@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Zaki currently building on Great Tech Company in Indonesia
+- 👋  Hi, I’m Zaki currently building at one of the Great Tech Company in Indonesia
 - 👀  I’m interested in Software Engineering and sometimes Machine Learning
 - 🌱  I’m currently learning to create more impact
 - 📫  How to reach me, feel free ask at kharisma.muzaki@gmail.com
